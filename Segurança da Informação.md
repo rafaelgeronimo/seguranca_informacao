@@ -1,6 +1,16 @@
 # Segurança da Informação
 
-https://www.youtube.com/watch?v=JrVS7YsGw8w
+---
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JrVS7YsGw8w">
+    <img src="http://img.youtube.com/vi/JrVS7YsGw8w/0.jpg">
+  </a>
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JrVS7YsGw8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 Para entender a Segurança da Informação, é importante conhecer o contexto em que segurança se tornou uma necessidade. Para isso precisamos ir para os primordios da computação em si, das redes, onde tinhamos o cenário pré internet, onde queriamos de alguma forma interconectar computadores entre universidades ou grandes empresas.
 Para colocar isso em prática, o mais viável na época seria cada um passar o seu próprio cabo, ligando os computadores uns aos outros e definindo a própria tecnologia de comunicação a ser utilizada. Porém isso acarreta na necessidade de uma quantidade muito grande de cabos. E foi exatamente por isso que surgiu o conceito de internet. Em vez de cada um passar o seu cabo, construir sua própria rede, a ideia é terceirizar esse serviço contratando um provedor de internet e ele faz essa interconexão. E tudo que eu preciso fazer é me conectar nessa infraestrutura.
